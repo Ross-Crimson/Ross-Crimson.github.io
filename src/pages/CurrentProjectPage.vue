@@ -44,13 +44,16 @@
                 <div id="carouselExampleAutoplaying" class="carousel slide" data-bs-ride="carousel">
                     <div class="carousel-inner">
                         <div class="carousel-item active">
-                            <img src="..." class="d-block w-100" alt="...">
+                            <img src="https://pbs.twimg.com/profile_images/1378037175220981760/NqJolFmD_400x400.jpg"
+                                class="d-block w-100" alt="filler">
                         </div>
                         <div class="carousel-item">
-                            <img src="..." class="d-block w-100" alt="...">
+                            <img src="https://media.wired.com/photos/5955bd45cbd9b77a41915ae5/16:9/w_929,h_523,c_limit/megamanlegends3.png"
+                                class="d-block w-100" alt="filler 2">
                         </div>
                         <div class="carousel-item">
-                            <img src="..." class="d-block w-100" alt="...">
+                            <img src="https://static.tweaktown.com/news/9/2/92230_1_capcom-wants-to-take-great-care-in-new-mega-man-games-wont-rush-development.png"
+                                class="d-block w-100" alt="filler 3">
                         </div>
                     </div>
                     <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleAutoplaying"
