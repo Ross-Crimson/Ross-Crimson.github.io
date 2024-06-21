@@ -18,7 +18,7 @@ function toggleTheme() {
 </script>
 
 <template>
-  <section class="container-fluid">
+  <section id="navbar" class="container-fluid">
 
     <nav class="navbar navbar-expand-sm bg-red px-3 row justify-content-between justify-content-md-end">
 

@@ -37,38 +37,40 @@
         </div>
 
         <div id="process" class="row section-height text-center justify-content-center">
-            <div class="col-12">
+            <div class="col-12 pt-5">
                 <h1>Process</h1>
             </div>
-            <div class="col-5">
-                <div id="carouselExampleAutoplaying" class="carousel slide" data-bs-ride="carousel">
-                    <div class="carousel-inner">
-                        <div class="carousel-item active">
-                            <img src="https://pbs.twimg.com/profile_images/1378037175220981760/NqJolFmD_400x400.jpg"
-                                class="d-block w-100" alt="filler">
+            <div class="col-5 pt-5">
+                <div>
+                    <div id="carouselExampleAutoplaying" class="carousel slide" data-bs-ride="carousel">
+                        <div class="carousel-inner">
+                            <div class="carousel-item active">
+                                <img src="https://pbs.twimg.com/profile_images/1378037175220981760/NqJolFmD_400x400.jpg"
+                                    class="d-block w-100" alt="filler">
+                            </div>
+                            <div class="carousel-item">
+                                <img src="https://media.wired.com/photos/5955bd45cbd9b77a41915ae5/16:9/w_929,h_523,c_limit/megamanlegends3.png"
+                                    class="d-block w-100" alt="filler 2">
+                            </div>
+                            <div class="carousel-item">
+                                <img src="https://static.tweaktown.com/news/9/2/92230_1_capcom-wants-to-take-great-care-in-new-mega-man-games-wont-rush-development.png"
+                                    class="d-block w-100" alt="filler 3">
+                            </div>
                         </div>
-                        <div class="carousel-item">
-                            <img src="https://media.wired.com/photos/5955bd45cbd9b77a41915ae5/16:9/w_929,h_523,c_limit/megamanlegends3.png"
-                                class="d-block w-100" alt="filler 2">
-                        </div>
-                        <div class="carousel-item">
-                            <img src="https://static.tweaktown.com/news/9/2/92230_1_capcom-wants-to-take-great-care-in-new-mega-man-games-wont-rush-development.png"
-                                class="d-block w-100" alt="filler 3">
-                        </div>
+                        <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleAutoplaying"
+                            data-bs-slide="prev">
+                            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                            <span class="visually-hidden">Previous</span>
+                        </button>
+                        <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleAutoplaying"
+                            data-bs-slide="next">
+                            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                            <span class="visually-hidden">Next</span>
+                        </button>
                     </div>
-                    <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleAutoplaying"
-                        data-bs-slide="prev">
-                        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                        <span class="visually-hidden">Previous</span>
-                    </button>
-                    <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleAutoplaying"
-                        data-bs-slide="next">
-                        <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                        <span class="visually-hidden">Next</span>
-                    </button>
                 </div>
             </div>
-            <div class="col-5">
+            <div class="col-5 align-content-center pt-5">
                 <p class="p-0 p-md-3" style="background-color: #DC143C;">
                     Developing any thing is a process and mine always starts with an Idea I’m excited about, because if
                     I’m not excited how am I supposed to expect someone else to be.
