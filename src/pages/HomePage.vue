@@ -25,15 +25,18 @@
 
     <div class="row justify-content-center justify-content-md-evenly m-5">
 
-      <router-link :to="{ name: 'DoubleUp' }" class="page-card m-3 m-lg-0 current align-content-center">
+      <router-link :to="{ name: 'DoubleUp' }" class="page-card m-3 m-lg-0 current align-content-center"
+        aria-label="Current Game Page Link">
         <img src="../assets/img/double-up-logo.png" alt="" class="img-fluid" style="position: relative;">
       </router-link>
 
-      <router-link :to="{ name: 'FullStack' }" class="page-card m-3 m-lg-0 fullstack align-content-center p-5">
+      <router-link :to="{ name: 'FullStack' }" class="page-card m-3 m-lg-0 fullstack align-content-center p-5"
+        aria-label="Full Stack Projects Page Link">
         <img src="../assets/img/source-code.png" alt="" class="invert img-fluid" style="position: relative;">
       </router-link>
 
-      <router-link :to="{ name: 'Games' }" class="page-card m-3 m-lg-0 games">
+      <router-link :to="{ name: 'Games' }" class="page-card m-3 m-lg-0 games"
+        aria-label="Previous Game Works Page Link">
 
       </router-link>
 

@@ -5,10 +5,6 @@ import Navbar from './components/Navbar.vue'
 import { watch } from 'vue';
 import { logger } from './utils/Logger.js';
 
-// const route = useRoute()
-// watch(route, () => {
-//   logger.log(route)
-// })
 
 </script>
 
