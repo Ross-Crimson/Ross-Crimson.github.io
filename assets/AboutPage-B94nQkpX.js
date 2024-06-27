@@ -1,1 +1,0 @@
-import{_ as e,o as t,a as o,b as s}from"./index-BuOceQGD.js";const a={},c=s("div",null,"This is the about page",-1),n=[c];function _(r,i){return t(),o("div",null,n)}const l=e(a,[["render",_]]);export{l as default};
